@@ -1,7 +1,5 @@
 # Simple Calculator
 
-![GitHub](https://img.shields.io/github/license/XeinTDM/SimpleCalculator) ![GitHub last commit](https://img.shields.io/github/last-commit/XeinTDM/SimpleCalculator) [![GitHub stars](https://img.shields.io/github/stars/XeinTDM/SimpleCalculator?style=social)](https://github.com/XeinTDM/SimpleCalculator/stargazers)
-
 A simple calculator console application built using C# and .NET 6.0.
 
 ## Features
